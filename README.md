@@ -1,6 +1,6 @@
 # Ask–See–Act Robotics
 
-시너지팀의 로봇팔 제어와 이동 로봇 실험 저장소입니다. 첫 실습은 Isaac Sim의 가상 Franka 팔을 MoveIt과 cuMotion에 연결해 목표 자세까지의 경로를 계획하고 실행하는 것입니다.
+시너지팀의 로봇팔 제어와 이동 로봇 실험 저장소이다. 첫 실습은 Isaac Sim의 가상 Franka 팔을 MoveIt과 cuMotion에 연결해 목표 자세까지의 경로를 계획하고 실행하는 것입니다.
 
 ## Franka cuMotion 실습
 
