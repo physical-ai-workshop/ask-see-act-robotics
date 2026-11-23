@@ -4,6 +4,8 @@
 
 ## Franka cuMotion 실습
 
+기존 팀 서버에 접속하려면 [EC2–Colab 연결 안내](docs/EC2-Colab-setup.md)를 먼저 확인하세요. SSH 터널, Jupyter 실행, Colab 연결과 GPU 확인 절차를 설명합니다.
+
 [Colab 노트북](notebooks/cumotion-franka-ec2.ipynb)에는 기존 팀 EC2 환경을 다시 사용하는 절차가 담겨 있습니다. Colab을 팀 EC2의 Jupyter 런타임에 연결한 뒤 셀을 실행하면 명령은 EC2에서 실행됩니다.
 
 ### 준비
